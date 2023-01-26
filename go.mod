@@ -1,4 +1,4 @@
-module github.com/cloudflare/cloudflare-go
+module github.com/jkunder/cloudflare-go
 
 go 1.17
 
